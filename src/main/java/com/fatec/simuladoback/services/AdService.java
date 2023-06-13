@@ -12,4 +12,9 @@ import com.fatec.simuladoback.repositories.AdRepository;
 public class AdService {
     @Autowired
     private AdRepository repos;
+
+    public Ad saveAd(Ad obj)
+    {
+        return repos.save(obj);
+    }
 }
