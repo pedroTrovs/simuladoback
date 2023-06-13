@@ -1,0 +1,2 @@
+INSERT INTO TBL_AD (ID, URL, DESCR, TEL, EMAIL) VALUES(1, 'AA', 'ankg', '1111-999', 'akak@akak.com')
+INSERT INTO TBL_AD (ID, URL, DESCR, TEL, EMAIL) VALUES(2, 'AA', 'agd', '1111-978', 'assss')
